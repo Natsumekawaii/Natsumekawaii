@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Natsume.
 
-<!--
-**Natsumekawaii/Natsumekawaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Born 2005-10-24` `Third-year Communication Engineering undergraduate at UESTC`
 
-Here are some ideas to get you started:
+- I'm currently exploring AI agent development and related technologies.
+- I'm interested in building practical AI agents that solve real-world problems.
+- I'm currently looking for internship opportunities related to AI agent development.
+- I enjoy learning new technologies and experimenting with new ideas.
+- Feel free to explore my repositories and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LeetCode](https://leetcode.cn/u/nat5ume/)
+
+Email: `xiaxiaxia00123@gmail.com`
+
+Feel free to contact me about anything, including collaboration and internship opportunities.
